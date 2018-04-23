@@ -1,0 +1,38 @@
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.DAL.dll.config
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.BLL.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.BLL.pdb
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\obj\Debug\Blog.DAL.Migrations.InitialCreate.resources
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.DAL\obj\Debug\Blog.DAL.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.DAL.dll.config
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.BLL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\bin\Debug\Blog.BLL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\bin\Debug\Blog.DAL.dll.config
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\bin\Debug\Blog.BLL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\bin\Debug\Blog.BLL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb

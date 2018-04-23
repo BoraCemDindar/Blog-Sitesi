@@ -1,0 +1,36 @@
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.BLL.dll.config
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.BLL.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.BLL.pdb
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.DAL.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.DAL.pdb
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\obj\Debug\Blog.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\obj\Debug\Blog.BLL.dll
+C:\Users\ERP-8\Documents\ERP-8\MVC.ERP8.Blog\Blog.BLL\obj\Debug\Blog.BLL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.BLL.dll.config
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.BLL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.BLL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\bin\Debug\Blog.DAL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\obj\Debug\Blog.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\obj\Debug\Blog.BLL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\MVC.ERP8.Blog\Blog.BLL\obj\Debug\Blog.BLL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\bin\Debug\Blog.BLL.dll.config
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\bin\Debug\Blog.BLL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\bin\Debug\Blog.BLL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\bin\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\bin\Debug\Blog.DAL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\obj\Debug\Blog.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\obj\Debug\Blog.BLL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD.Site.Blog\Blog.BLL\obj\Debug\Blog.BLL.pdb

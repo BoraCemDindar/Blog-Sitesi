@@ -1,0 +1,48 @@
+﻿@model Blog.BLL.DataModel.Makale
+
+@{
+    ViewBag.Title = "MakaleFromYorum";
+}
+    <!-- masonry grid item start -->
+<div class="masonry-grid-item col-sm-6">
+    <!-- blogpost start -->
+    <article class="clearfix blogpost">
+        <div class="overlay-container">
+            <img src="~/Content/images/@Model.Resim" alt="@Model.Baslik">
+            <div class="overlay">
+                <div class="overlay-links">
+                    <a href="blog-post.html"><i class="fa fa-link"></i></a>
+                    <a href="~/Content/images/@Model.Resim" class="popup-img-single" title="@Model.Baslik"><i class="fa fa-search-plus"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="blogpost-body">
+            <div class="post-info">
+                <span class="day">@Model.Tarih.Day</span>
+                @{
+                    string[] Aylar = { "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Hazrn", "Temmz", "Ağust", "Eylül", "Ekim", "Kasım", "Aralk" };
+                }
+                <span class="month">@Aylar[Model.Tarih.Month - 1] &nbsp; @Model.Tarih.Year</span>
+            </div>
+            <div class="blogpost-content">
+                <header>
+                    <h2 class="title">@Model.Baslik</h2>
+                    @{ string adsoyad = Model.Uye.Ad + " " + Model.Uye.Soyad; }
+                    <div class="submitted"><i class="fa fa-user pr-5"></i> by <a href="#">@adsoyad</a></div>
+                </header>
+                @*<p>@Model.Icerik</p>*@
+                <p>@Html.Raw(Model.Icerik)</p>
+            </div>
+        </div>
+        <footer class="clearfix">
+            <ul class="links pull-left">
+                <li><i class="fa fa-comment-o pr-5"></i> <a href="#">@Model.Yorumlar.Count yorum</a> |</li>
+                <li><i class="fa fa-tags pr-5"></i> <a href="#">@Model.Etiketler.Count etiket</a></li>
+            </ul>
+            <a class="pull-right link" href="blog-post.html"><span>Devam...</span></a>
+        </footer>
+    </article>
+    <!-- blogpost end -->
+</div>
+<!-- masonry grid item end -->
+

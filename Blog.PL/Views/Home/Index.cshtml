@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="masonry-grid row">
+    <div class="col-md-9">
+        @Html.Action("SonMakaleler", "Home")
+     </div>
+    <div class="col-md-3">
+        @*<div class="separator"></div>*@
+        @Html.Action("SonYorumlar", "Home")
+        <div class="separator"></div>
+        @Html.Action("CokKullanilanEtiketler", "Home")
+    </div>
+</div>
+

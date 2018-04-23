@@ -1,0 +1,10 @@
+﻿@model List<Blog.BLL.DataModel.Etiket>
+
+<h4>Etiketler</h4>
+<div class="tags-cloud">
+    @foreach (var e in Model)
+    {
+        <div class="tag">@Html.ActionLink(e.Icerik, "MakalelerByEtiket", new {etiketID = e.ID })</div>
+    }
+</div>
+

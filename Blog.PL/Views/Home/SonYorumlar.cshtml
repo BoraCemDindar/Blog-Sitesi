@@ -1,0 +1,18 @@
+﻿@model List<Blog.BLL.DataModel.Yorum>
+
+@foreach (var y in Model)
+{
+    <div class="block clearfix">
+        <header>
+            @{ string adsoyad = @y.Uye.Ad + " " + @y.Uye.Soyad; }
+            <div class="submitted"><i class="fa fa-user pr-5"></i> by <a href="#">@adsoyad</a></div>
+        </header>
+        makale : @Html.ActionLink(y.Makale.Baslik, "MakaleFromYorum", new { makaleID = y.MakaleID})
+        <div class="image-box-body">
+            <h4>yorum içeriği</h4>
+            <p>@Html.Raw(y.Icerik)</p>
+            <a class="link" href="#"><span>devam...</span></a>
+        </div>
+    </div>
+}
+
